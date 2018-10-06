@@ -1,4 +1,5 @@
-# SingleCheeseCuttingSM
+# SingleCheeseCuttingSM [![DOI](https://zenodo.org/badge/151836645.svg)](https://zenodo.org/badge/latestdoi/151836645)
+
 ###### Single Cheese Cutting Space Mapping Optimization
 - [x] Aggressive Space Mapping
 - [x] Implicit Space Mapping
